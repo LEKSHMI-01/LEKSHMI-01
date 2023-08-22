@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python(Machine Learning)**
 
-- 👨‍💻 All of my projects are available at (//lekshmi-01.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at (http://lekshmi-01.github.io/Portfolio/)
 
 - 📫 How to reach me **lekshmi.ajaykumar2001@gmail.com**
 
